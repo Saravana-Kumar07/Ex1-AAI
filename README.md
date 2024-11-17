@@ -1,4 +1,4 @@
-<H3> Name : Saravana Kuamr S </H3>
+<H3> Name : Saravana Kumar S </H3>
 
 <H3>Register No.: 212221230088 </H3>
 

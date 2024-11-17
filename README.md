@@ -1,11 +1,12 @@
-<H3> Name : Saravana Kumar S </H3>
+<H3> Name : Paul Andrew D </H3>
 
-<H3>Register No.: 212221230088 </H3>
+<H3>Register No.: 212221230075 </H3>
 
 <H3> Experiment 1 </H3>
 
-<H4> DATE: 12.10.24</H4>
+<H4> DATE: 07.09.24</H4>
 
+  
 <H1 align-item="center"> Implementation of Bayesian Networks </H1>
 
 
